@@ -1,1 +1,0 @@
-connways game of life :)
